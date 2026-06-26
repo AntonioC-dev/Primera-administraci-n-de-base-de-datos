@@ -1,5 +1,6 @@
 # Primera administración de base de datos de biblioteca
-*Base de datos relacional para la gestión de biblioteca utilizable*
+*Base de datos relacional para la gestión de biblioteca Saber Decade*
+*Incluye datos de libros, categorias, empleados, usuarios y prestmos*
 
 # Tablas 🗃️
 - Categoria
@@ -7,6 +8,9 @@
 - Empleado
 - Usuario
 - Prestamo
+
+# Herramienta 🔨
+- MySQL
 
 # Formato 📄
 - SQL
